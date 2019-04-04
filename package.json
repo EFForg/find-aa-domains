@@ -1,0 +1,17 @@
+{
+  "name": "find-aa-domains",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "JSONStream": "^1.3.5",
+    "highland": "^2.13.3",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Budington <bill@eff.org>",
+  "license": "GPL-3.0-or-later"
+}
